@@ -2,4 +2,4 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 
 
 # HTML
-[] Remember to include a `meta` tag for UTF-8
+- [ ] Remember to include a `meta` tag for UTF-8
