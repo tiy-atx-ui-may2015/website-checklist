@@ -36,4 +36,5 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
         - Colors: define all colors as variables
         - Type: define all fonts sizes and styles
         - Grid: define the grid system for the overall layout
+      - DRY - Don't Repeat Yourself
 
