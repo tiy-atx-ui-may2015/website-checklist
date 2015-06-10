@@ -2,8 +2,6 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 
 
 # HTML
-- [ ] Add your language to the HTML
-      - `<html lang="en">`
 - [ ] Remember to include a `meta` tag for UTF-8
 
 - [ ] Include a link to your CSS file
@@ -23,6 +21,11 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] Font-size: when using em/rem's, make sure to set back-up size in pixels
       `font-size: 16px;
        font-size: 1rem;`
+- [ ] Add reset
+- [ ] Use alt text attributes on images
+- [ ] Indent nested elements
+- [ ] name class values with names related to the content
+- [ ] When using `display: inline-block' make sure to add comments to your HTML to close the small space between divs
 - [ ] Vertical align doesn't work with float.
 
 # SASS
@@ -33,3 +36,4 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
         - Colors: define all colors as variables
         - Type: define all fonts sizes and styles
         - Grid: define the grid system for the overall layout
+
