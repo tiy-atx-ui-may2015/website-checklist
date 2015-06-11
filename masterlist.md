@@ -9,6 +9,14 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] Add a reset
       - http://meyerweb.com/eric/tools/css/reset/
 
+- [ ] Use comments to organize your HTML.
+
+ >    <! ————————  Typography  ————————> 
+
+- [ ] For horizontal navs: Use <li>s in <ul>s in <div>s, along with display: in-line block.
+
+
+
 # CSS
 - [ ] Add reset
 - [ ] Add box-sizing to layout (here or in a grid/layout Sass partial)
@@ -27,6 +35,16 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] name class values with names related to the content
 - [ ] When using `display: inline-block' make sure to add comments to your HTML to close the small space between divs
 - [ ] Vertical align doesn't work with float.
+
+- [ ] Use comments to organize your CSS:
+ (The system from Shay Howe’s lessons works well.)
+
+>  /*
+  ========================================
+  Grid
+  ========================================
+  */
+
 
 # SASS
 - [ ] Partial files
