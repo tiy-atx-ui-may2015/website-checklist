@@ -3,7 +3,6 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 
 # HTML
 - [ ] Remember to include a `meta` tag for UTF-8
-
 - [ ] Include a link to your CSS file
       - `<link rel="stylesheet" type="text/css" href="stylesheet-name">`
 - [ ] Add a reset
@@ -14,6 +13,7 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
  >    <! ————————  Typography  ————————> 
 
 - [ ] For horizontal navs: Use <li>s in <ul>s in <div>s, along with display: in-line block.
+- [ ] Remember to wrap your content in a main container div
 
 
 
@@ -29,7 +29,6 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] Font-size: when using em/rem's, make sure to set back-up size in pixels
       `font-size: 16px;
        font-size: 1rem;`
-- [ ] Add reset
 - [ ] Use alt text attributes on images
 - [ ] Indent nested elements
 - [ ] name class values with names related to the content
@@ -54,5 +53,9 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
         - Colors: define all colors as variables
         - Type: define all fonts sizes and styles
         - Grid: define the grid system for the overall layout
+        - Mix-ins: define all of the mix-ins for your site
       - DRY - Don't Repeat Yourself
+- [ ] Initialize Sass
+      - type in the command “sass —watch "css/style.scss” (location of your sass file) to initialize Sass
+      - remember to turn off when not in use
 
