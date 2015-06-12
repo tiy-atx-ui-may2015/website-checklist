@@ -9,6 +9,7 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] Add a reset
       - http://meyerweb.com/eric/tools/css/reset/
 - [ ] Remember to always close your divs/tags
+- [ ] Remember to keep your code clean (Ex. indentation)
 
 # CSS
 - [ ] Add reset
