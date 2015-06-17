@@ -7,6 +7,8 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
       - `<link rel="stylesheet" type="text/css" href="stylesheet-name">`
 - [ ] Add a reset
       - http://meyerweb.com/eric/tools/css/reset/
+- [ ] Remember to always close your divs/tags
+- [ ] Remember to keep your code clean (Ex. indentation)
 
 - [ ] Use comments to organize your HTML.
 
@@ -36,6 +38,7 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] name class values with names related to the content
 - [ ] When using `display: inline-block' make sure to add comments to your HTML to close the small space between divs
 - [ ] Vertical align doesn't work with float.
+- [ ] Remember to close your elements with ;
 
 - [ ] Use comments to organize your CSS:
  (The system from Shay Howe’s lessons works well.)
