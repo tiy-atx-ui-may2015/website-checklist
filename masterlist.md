@@ -58,10 +58,11 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
   */
 
 #Terminal 
-- ls = Short listing
-- cd [folder] = Change directory
-- touch [file] = Create new file
-- mkdir [dir] = Create new directory
+    -[ ] terminal commands
+    - ls = Short listing
+    - cd [folder] = Change directory
+    - touch [file] = Create new file
+    - mkdir [dir] = Create new directory
 
 # SASS
 - [ ] Partial files
