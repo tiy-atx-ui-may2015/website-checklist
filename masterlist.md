@@ -83,13 +83,10 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] Double check the RWD Checklist: http://rwdchecklist.com/
 - [ ] Comment out the end of your media queries like the below to prevent confusing/missing brackets
   `} /*end of media query*/`
+- [ ] Plan first by sketching
+- [ ] Create smallest media query first
+- [ ] Use em units for font-size
+- [ ] Use percentages % for width, margin-left and margin-right
 
-  [ ] Plan first by sketching
-  [ ] Create smallest media query first
-  [ ] Use em units for font-size
-  [ ] Use percentages % for width, margin-left and margin-right
-
-      - type in the command “sass —watch "css/style.scss” (location of your sass file) to initialize Sass
-      - remember to turn off when not in use
 
 
