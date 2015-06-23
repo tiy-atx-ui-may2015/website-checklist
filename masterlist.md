@@ -33,21 +33,21 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
 - [ ] Font-size: when using em/rem's, make sure to set back-up size in pixels
       `font-size: 16px;
        font-size: 1rem;`
-<<<<<<< HEAD
+
 - [ ] For horizontal `<nav>`: Use `<li>`s in `<ul>`s in `<div>`s, along with `display: inline-block` or `float: left`.
 - [ ] Remember to wrap your content in a main container div
-=======
->>>>>>> c8af341634b1abb05766191fbbea171c5331a3e9
+
+
 - [ ] Use alt text attributes on images
 - [ ] Indent nested elements
 - [ ] name class values with names related to the content
 - [ ] When using `display: inline-block' make sure to add comments to your HTML to close the small space between divs
 - [ ] Vertical align doesn't work with float.
-<<<<<<< HEAD
-=======
+
+
 - [ ] Remember to close your elements with ;
 
->>>>>>> c8af341634b1abb05766191fbbea171c5331a3e9
+
 - [ ] Use comments to organize your CSS:
  (The system from Shay Howe’s lessons works well.)
 
@@ -57,6 +57,11 @@ This is a checklist that the May 2015 UI Design class contributes to about all g
   ========================================
   */
 
+#Terminal 
+- ls = Short listing
+- cd [folder] = Change directory
+- touch [file] = Create new file
+- mkdir [dir] = Create new directory
 
 # SASS
 - [ ] Partial files
